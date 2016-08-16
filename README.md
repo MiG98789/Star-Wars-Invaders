@@ -1,4 +1,4 @@
-# Star-Wars-Invaders
+# Star Wars Invaders
 
 ## Introduction
 This is a Star Wars-themed spin-off of the classic Space Invaders. It was made for a computer science class using Python 3.2.3.
